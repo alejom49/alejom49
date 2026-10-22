@@ -1,72 +1,110 @@
-👋 Hola, soy alejom49
+# ¡Hola! Soy Alejandro Muñoz 👋
 
+### Ingeniero de Sistemas | Infraestructura TI | Comunicaciones Unificadas | Seguridad Informática | Inteligencia Artificial
 
-Ingeniero de Sistemas | Infraestructura TI | Seguridad Informática | Inteligencia Artificial
+Soy Ingeniero de Sistemas, especialista en Seguridad Informática y actualmente en formación de posgrado en Inteligencia Artificial. Me enfoco en la administración, integración, implementación y solución de problemas de infraestructura tecnológica, telefonía IP y comunicaciones empresariales.
 
-Profesional de tecnología enfocado en la administración de infraestructura, comunicaciones unificadas, telefonía IP y soluciones tecnológicas. Me interesa la automatización, la integración de plataformas y el uso de la inteligencia artificial para resolver problemas reales.
+Mi experiencia abarca plataformas Linux, Microsoft Teams, telefonía IP, protocolos SIP, Session Border Controllers (SBC), seguridad de comunicaciones, certificados SSL/TLS, monitoreo y servicios de infraestructura.
 
-👨‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
-🖥️ Administración de servidores Linux: Debian, Ubuntu y Rocky Linux.
+- 🖥️ Administración de servidores Linux y servicios de infraestructura.
+- ☎️ Implementación, administración e integración de soluciones de telefonía IP.
+- 💬 Integración de Microsoft Teams con plataformas PBX y troncales SIP.
+- 🔐 Seguridad de comunicaciones, certificados SSL/TLS y configuración de servicios seguros.
+- 🌐 Configuración y diagnóstico de SBC, enrutamiento SIP y plataformas de comunicaciones unificadas.
+- 📊 Monitoreo de infraestructura y análisis de incidentes técnicos.
+- 🤖 Interés en inteligencia artificial, automatización e integración de soluciones tecnológicas.
 
-☎️ Telefonía IP y comunicaciones unificadas: Asterisk, Issabel PBX, FreePBX y Grandstream.
+## 🛠️ Tecnologías y herramientas
 
-🌐 Integración y administración de SBC: AnyNode, Ribbon y Kamailio.
+### 💻 Sistemas operativos y administración de servidores
 
-🔐 Seguridad informática, certificados SSL/TLS y configuración de servicios web.
+- Linux: Debian, Ubuntu, Rocky Linux, CentOS y otras distribuciones.
+- Administración de servicios, usuarios, permisos, procesos, registros y redes.
+- Windows Server, Active Directory y servicios de dominio.
+- Administración y diagnóstico de servidores en entornos empresariales.
 
-☁️ Infraestructura Windows, Active Directory, proxy inverso y monitorización con Zabbix.
+### ☁️ Microsoft Teams y comunicaciones unificadas
 
-🤖 Interés en inteligencia artificial, automatización e integración de sistemas.
+- Microsoft Teams y administración de entornos de comunicaciones empresariales.
+- Integración de Microsoft Teams con telefonía IP y plataformas PBX.
+- Telefonía empresarial, enrutamiento de llamadas y conectividad SIP.
+- Integración de Teams con SBC y plataformas de comunicaciones existentes.
+- Diagnóstico de conectividad, señalización SIP y flujo de llamadas.
 
-🏆 Momentos destacados y hitos
+### 📞 Telefonía IP y plataformas PBX
 
-Modernización y migración de plataformas de telefonía IP.
+- Asterisk.
+- FreeSWITCH.
+- Issabel PBX.
+- FreePBX.
+- Grandstream UCM.
+- Configuración y diagnóstico de extensiones, troncales SIP, rutas entrantes y salientes.
+- Planes de marcación, códecs, señalización SIP y resolución de incidentes de telefonía.
 
-Administración y diagnóstico de infraestructura de servidores y servicios de comunicaciones.
+### 🔀 SBC, SIP y enrutamiento de comunicaciones
 
-Integración de soluciones de telefonía con plataformas empresariales.
+- Kamailio.
+- AnyNode SBC.
+- Ribbon SBC.
+- Session Border Controllers (SBC).
+- SIP Trunking e interoperabilidad entre plataformas de voz.
+- Análisis de mensajes SIP, registro de terminales, conectividad y negociación de medios.
+- Integración de plataformas de telefonía con servicios de comunicaciones empresariales.
 
-Formación continua en inteligencia artificial y nuevas tecnologías.
+### 🔐 Seguridad, certificados y servicios web
 
-🚀 Proyectos de código abierto destacados
+- Certificados SSL/TLS.
+- Generación y administración de CSR.
+- Instalación y renovación de certificados digitales.
+- Validación de cadenas de certificados y configuración de HTTPS.
+- NGINX y Apache.
+- Reverse proxy y publicación segura de servicios.
+- Diagnóstico de conectividad y configuración de servicios de red.
 
-🔹 Integración de Issabel PBX con Salesforce
+### 📈 Monitoreo e infraestructura
 
-Exploración de una solución para integrar telefonía IP con CRM, incluyendo eventos de llamadas, identificación de contactos y registro de actividades.
+- Zabbix.
+- Diagnóstico de redes y servicios.
+- Análisis de logs y resolución de incidentes.
+- Administración de servicios de infraestructura.
+- Evaluación de disponibilidad, rendimiento y conectividad.
 
-Tecnologías: Issabel PBX, Asterisk, REST API, AMI y Salesforce.
+### 🤖 Inteligencia artificial y automatización
 
-<!-- Agrega aquí el enlace al repositorio cuando el proyecto esté publicado. -->
+- Formación en Inteligencia Artificial.
+- Python y análisis de datos.
+- Exploración de soluciones de IA generativa.
+- Automatización de tareas y procesos tecnológicos.
+- Integración de servicios y desarrollo de soluciones orientadas a necesidades empresariales.
 
-🔹 Infraestructura y automatización
+## 🚀 Proyectos y áreas de interés
 
-Laboratorios, scripts y configuraciones para la administración, monitorización y optimización de servicios tecnológicos.
+Me interesa documentar y desarrollar proyectos relacionados con:
 
-<!-- Agrega aquí los enlaces a tus proyectos publicados. -->
+- Integración de Microsoft Teams con plataformas de telefonía IP.
+- Laboratorios de interoperabilidad SIP entre Asterisk, FreeSWITCH y SBC.
+- Administración y automatización de servicios Linux.
+- Configuración, renovación y diagnóstico de certificados SSL/TLS.
+- Monitoreo de infraestructura mediante Zabbix.
+- Integración de inteligencia artificial con herramientas y procesos empresariales.
 
-📂 Más proyectos de mis repositorios
+Esta sección irá creciendo a medida que publique repositorios, scripts, laboratorios y documentación técnica.
 
-Puedes explorar mis repositorios para conocer mis proyectos, experimentos y desarrollos:
+## 📚 Formación
 
-➡️ Ver todos mis repositorios
+- Ingeniería de Sistemas.
+- Especialización en Seguridad Informática.
+- Especialización en Inteligencia Artificial — en curso.
 
-🛠️ Tecnologías y herramientas
+## 🤝 Conecta conmigo
 
-Sistemas operativos
-Linux Debian Ubuntu Rocky Linux Windows Server
+Puedes explorar mis repositorios para conocer mis laboratorios, documentación y proyectos tecnológicos.
 
-Telefonía y comunicaciones
-Asterisk Issabel PBX FreePBX SIP SBC Microsoft Teams
+- GitHub: [@alejom49](https://github.com/alejom49)
 
-Infraestructura y seguridad
-Zabbix Active Directory SSL/TLS Nginx Apache
+---
 
-Desarrollo e inteligencia artificial
-Python Git GitHub REST APIs Machine Learning IA Generativa
-
-📫 Conecta conmigo
-
-GitHub: @alejom49
-
-Aprendiendo, construyendo e integrando tecnología para resolver desafíos reales.
+*Tecnología, infraestructura y comunicaciones trabajando en conjunto para resolver problemas reales.*
+.
