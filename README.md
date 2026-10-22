@@ -1,4 +1,6 @@
 👋 Hola, soy alejom49
+
+
 Ingeniero de Sistemas | Infraestructura TI | Seguridad Informática | Inteligencia Artificial
 
 Profesional de tecnología enfocado en la administración de infraestructura, comunicaciones unificadas, telefonía IP y soluciones tecnológicas. Me interesa la automatización, la integración de plataformas y el uso de la inteligencia artificial para resolver problemas reales.
